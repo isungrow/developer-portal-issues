@@ -1,38 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: API Bug report
+about: Report a defect related to OpenAPI endpoints (error responses, parameter validation, documentation mismatch, etc.)
+title: '[API-BUG]'
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**⚠️ Before submitting, please confirm:**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+- You have reviewed our [Sungrow Developer Portal Quick Start](https://developer-api.isolarcloud.com/#/quick-start)  to understand the expected behavior
+- You have searched existing issues to avoid duplicates
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**API Information**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+- **Endpoint**: `POST /openapi/getPowerStationList`
+- **Module**: [e.g.,  Authrization/ Monitoring / Grid Control / Live Data]
+  
+  
 
-**Additional context**
-Add any other context about the problem here.
+**Problem Description**
+
+    A clear and concise description of what the API issue is.
+
+
+
+**Steps to Reproduce**
+
+1. Construct the request (provide a reproducible example)
+2. Call the endpoint
+3. Observe the response
