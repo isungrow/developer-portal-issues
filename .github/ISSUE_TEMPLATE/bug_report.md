@@ -12,20 +12,14 @@ assignees: ''
 - You have reviewed our [Sungrow Developer Portal Quick Start](https://developer-api.isolarcloud.com/#/quick-start)  to understand the expected behavior
 - You have searched existing issues to avoid duplicates
 
-
-
 **API Information**
 
 - **Endpoint**: `POST /openapi/getPowerStationList`
 - **Module**: [e.g.,  Authrization/ Monitoring / Grid Control / Live Data]
-  
-  
 
 **Problem Description**
 
     A clear and concise description of what the API issue is.
-
-
 
 **Steps to Reproduce**
 
