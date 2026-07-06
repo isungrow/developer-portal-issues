@@ -2,7 +2,7 @@
 
 Sungrow Developer Portal is an open API service portal built by Sungrow for global developers, system integrators and third-party enterprises.
 
-![](/home/admin/IdeaProjects/developer-portal-issues/logo.png)
+![](logo.png)
 
 Through this platform, you can securely and efficiently access operational data from smart devices such as PV inverters and energy storage systems, and deeply integrate them into your own business ecosystem.
 
